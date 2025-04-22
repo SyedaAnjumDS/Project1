@@ -6,6 +6,7 @@ QR Code generator using Python.
 -> A QR Code(Quick Response Code) is a two-demensional barcode that can be scanned using smartphones or QR code readers.
 -> The QR Code Generator allows user to input any type of URL and instantly create a scannable QR Code.
 -> When the generated QR Code is scanned using the smartphone or QR reader, it will redirect the user to the corresponding website.
+
 ![Screenshot (38)](https://github.com/user-attachments/assets/29f00894-91bf-4758-88ea-9787ae1515ca)
 
 **Features**
