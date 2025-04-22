@@ -1,5 +1,5 @@
 # Project1
-QR Code generator using Python.
+**Title:** QR Code generator using Python.
 
 **Project Description**
 •> This project is a simple yet powerful application that generates QR Codes based on the user input.
